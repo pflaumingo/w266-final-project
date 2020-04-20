@@ -7,5 +7,6 @@ The report can be found in the report directory within this repo
 ## Code
 The code was done using Google Colab as it provided access to GPUs for training. The notebooks will download the data in the first few cells.
 
-CNN and DNN Models can be found here: 
+CNN and DNN Models can be found here: https://colab.research.google.com/drive/1AMxbjq3w49pryE25ZaW5ZANDmZQnm-6p
+
 LSTM variations can be found here: https://colab.research.google.com/drive/1YoxiEkhZQJ5dGJSeIzD9qb-bAvvkUWdg
